@@ -1,0 +1,8 @@
+global.config = {
+
+  'token': "",
+  'prefix': ">",
+  'ownerID': "",
+  'modules': ["test"]
+
+};
